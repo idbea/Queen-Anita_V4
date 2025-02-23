@@ -6,16 +6,15 @@
 <p align="center">
 <img src="https://files.catbox.moe/jd0s4p.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__QUEEN+ANITA-+V
-                                        4__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__QUEEN+ANITA-+V4__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+05%2F12%2F2024." alt="Typing SVG" /></a>
 </p> 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx1/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx1/Itachi_Uchiha-Md?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx1/Itachi_Uchiha-Md?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx1/Queen-Anita_V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx1/Queen-Anita_V4?color=yellow&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx1/Queen-Anita_V4?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
