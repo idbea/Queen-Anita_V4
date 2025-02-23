@@ -13,20 +13,20 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DAVID_CYRIL-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx/Queen-Anita_V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen-Anita_V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Itachi_Uchiha-Md?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen-Anita_V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Itachi_Uchiha-Md?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen-Anita_V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx1/Itachi_Uchiha-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx1/Itachi_Uchiha-Md?color=yellow&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx1/Itachi_Uchiha-Md?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/DeeCeeXxx1/Queen-Anita_V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 #
 
 ## Queen-Anita_V4 Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx/Queen-Anita_V4/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/DeeCeeXxx1/Queen-Anita_V4/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://anita-v4-pairing-wumi.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Queen-Anita_V4)**
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx1/Queen-Anita_V4)**
 8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L) for more**
 9. **All Tutorials Are `COMING SOON`**
 
@@ -48,6 +48,6 @@
 - *Use Queen-Anita_V4 at your own risk by keeping this warning in mind.*
   
   #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx1/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
